@@ -1,5 +1,5 @@
 # Outline
-This is a WYSIWYG Markdown editor built with React and TypeScript.
+This is a WYSIWYG Markdown editor web app built with React and TypeScript.
 As this is a WYSIWYG editor, the text will be formatted instead of just showing the raw markup. This is done with [commonmark.js](https://github.com/commonmark/commonmark.js).
 
 ## Features
